@@ -12,7 +12,7 @@ AWS ID Core Services
 
 - [RDS](https://github.com/christophavila/aws-id-core/blob/master/RDS%20HOL.pdf)
 
-- [ELB](https://github.com/christophavila/aws-id-core/blob/master/Immersion_Day_ELB_HOL.pdf)
+- [ELB](https://github.com/christophavila/aws-id-core/blob/master/Immersion_Day_ELB_HOL_b.pdf)
 
 - [VPC](https://github.com/christophavila/aws-id-core/blob/master/VPCHandsOnLab.pdf)
 
