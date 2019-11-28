@@ -16,6 +16,6 @@ AWS ID Core Services
 
 - [VPC](https://github.com/christophavila/aws-id-core/blob/master/VPCHandsOnLab.pdf)
 
-- [IAM](https://github.com/christophavila/aws-id-core/blob/master/IAMHandsOnLab.pdf
+- [IAM](https://github.com/christophavila/aws-id-core/blob/master/IAMHandsOnLab.pdf)
 
 - [Auto Scaling](https://github.com/christophavila/aws-id-core/blob/master/Immersion%20Day%20-%20Auto%20Scaling%20Lab.pdf)
